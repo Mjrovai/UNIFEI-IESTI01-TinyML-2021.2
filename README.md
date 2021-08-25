@@ -9,7 +9,7 @@ For the previous IESTI01 TinyML 2021.1 course Version, please go to: https://git
 <hr>
 
 `
-NOTA: O classes on-line (síncronas) do curso serão ministrado na lingua portuguêsa, mas uma base de inglês (leitura) será fundamental ao aluno para o acompanhamento das mesmas, pois todo o material de leitura, vídeos extras e slides, serão disponibilizados majoritariamente no idioma inglês.`
+NOTA: As classes on-line (síncronas) do curso serão ministrado na lingua portuguêsa, mas uma base de inglês (leitura) será fundamental ao aluno para o acompanhamento das mesmas, pois todo o material de leitura, vídeos extras e slides, serão disponibilizados majoritariamente no idioma inglês.`
 
 ## Relevancia do aprendizado do TinyML
 Como sabemos, os microcontroladores (ou MCUs) são componentes eletrônicos muito baratos, geralmente com apenas alguns kilobytes de RAM e projetados para consumir pequenas quantidades de energia. Hoje em dia, os MCUs podem ser encontrados incorporados em quase todos os dispositivos residenciais, médicos, automotivos e industriais. Estima-se que mais de 40 bilhões de microcontroladores serão vendidos este ano e provavelmente centenas de bilhões deles esteja em serviço atualmente. Mas, curiosamente, esses dispositivos não recebem muita atenção porque muitas vezes são usados apenas para substituir funcionalidades que os sistemas eletromecânicos mais antigos faziam em carros, máquinas de lavar ou controles remotos.
