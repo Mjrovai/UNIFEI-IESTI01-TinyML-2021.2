@@ -92,8 +92,8 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 `All material will be uploaded to this repo at the classes' base.`
 
 ### Optional pre-course activities:
-+ Pre-course:  : [[Suggested readings]](00_Curso_Folder/0_Pre-Course/)
-+ Pre-course:  : [[Jupyter Notebook, CoLab and Python Review]](/00_Curso_Folder/1_Fundamentals/Class_4/)
++ Pre-course:  : [[Suggested readings]](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1/tree/main/00_Curso_Folder/0_Pre-Course)
++ Pre-course:  : [[Jupyter Notebook, CoLab and Python Review]](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1/tree/main/00_Curso_Folder/1_Fundamentals/Class_4)
 
 ### Parte 1: Fundamentals 
 + Class 1 - About the Course and Syllabus 
