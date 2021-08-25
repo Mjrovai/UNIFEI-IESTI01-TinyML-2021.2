@@ -1,16 +1,24 @@
 # UNIFEI-IESTI01-TinyML-2021.2
-## Course Repository - TinyML - Machine Learning for Embedding Devices - 2nd Semester (Spring)
+## Course Repository - TinyML - Machine Learning for Embedding Devices
+### 2nd Semester (Spring)
 
 <img src='images/IESTI_2.jpg'/>
 <figcaption><a href='https://unifei.edu.br/iesti/'>Instituto de Engenharia de Sistemas e Tecnologias da Informação – IESTI - Campus de Itajubá</a></figcaption>
 <hr>
 
 `
-NOTA: O curso será ministrado majoritariamente em português, mas uma base de inglês será fundamental ao aluno para o acompanhamento do mesmo, pois todo o material de leitura, vídeos e slides, serão disponibilizados no idioma inglês.`
+NOTA: O classes on-line (síncronas) do curso serão ministrado na lingua portuguêsa, mas uma base de inglês (leitura) será fundamental ao aluno para o acompanhamento das mesmas, pois todo o material de leitura, vídeos extras e slides, serão disponibilizados majoritariamente no idioma inglês.`
+
+## Relevancia do aprendizado do TinyML
+Como sabemos, os microcontroladores (ou MCUs) são componentes eletrônicos muito baratos, geralmente com apenas alguns kilobytes de RAM e projetados para consumir pequenas quantidades de energia. Hoje em dia, os MCUs podem ser encontrados incorporados em quase todos os dispositivos residenciais, médicos, automotivos e industriais. Estima-se que mais de 40 bilhões de microcontroladores serão vendidos este ano e provavelmente centenas de bilhões deles esteja em serviço atualmente. Mas, curiosamente, esses dispositivos não recebem muita atenção porque muitas vezes são usados apenas para substituir funcionalidades que os sistemas eletromecânicos mais antigos faziam em carros, máquinas de lavar ou controles remotos.
+
+Mais recentemente, com a era da IoT (Internet das Coisas), uma parte significativa desses MCUs está gerando “quintilhões” de dados, que em sua maioria, não são utilizados devido ao alto custo e complexidade de sua transmissão de dados (largura de banda e latência).
+
+Por outro lado, nas últimas décadas, assistimos ao desenvolvimento de modelos de Aprendizado de Máquina (também conhecido como Inteligência Artificial) treinados com "toneladas" de dados e em poderosos mainframes. Mas o que está acontecendo hoje é que, de repente, tornou-se possível, à partir de sinais "ruidosos" e complexos como imagens, áudio ou acelerômetros e extrair significado deles através do uso de redes neurais. E o que é mais importante, é que podemos executar esses modelos de redes neurais em microcontroladores e sensores usando muito pouca energia e assim, interpretando muito mais dos dados de sensores que estamos atualmente ignorando. Este é o TinyML, uma nova área que permite extrair "inteligência de máquina" bem no mundo físico (onde os dados são gerados).
 
 ## Visão geral do curso
 
-TinyML é um curso introdutório na interseção entre o Aprendizado de Máquina (Machine Learning) e dispositivos embarcados (Embedded Devices). A difusão de dispositivos embarcados com ultra-baixo consumo de energia (da ordem de miliwatts), juntamente com a introdução de frameworks de aprendizado de máquina dedicados a dispositivos embarcados, como TensorFlow Lite para Microcontroladores (TF Micro), permitirá a proliferação em massa de dispositivos IoT potencializados por IA (“AioT”). 
+TinyML é um curso introdutório na interseção entre o Aprendizado de Máquina (Machine Learning) e dispositivos embarcados (Embedded Devices). A difusão de dispositivos embarcados com ultra-baixo consumo de energia (da ordem de miliwatts), juntamente com a introdução de frameworks de aprendizado de máquina dedicados a dispositivos embarcados, como TensorFlow Lite para Microcontroladores (TF Lite Micro), permitirão a proliferação em massa de dispositivos IoT potencializados por IA (“AioT”). 
 
 O crescimento explosivo do aprendizado de máquina e a facilidade de uso de plataformas como TensorFlow (TF) o tornam um tópico de estudo indispensável para estudantes de Engenharia Eletrônica, da Computação e Controle & Automação. 
 
@@ -49,30 +57,30 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 +	15hs em pesquisas e estudos individuais + trabalho final (em grupo)
 
 ## Processo de aprovação:
-+ Participação individual em classe: 10%
-+	Listas de exercícios (Jupyter Notebook): 30%
-+	Projetos práticos (Labs): 30%
-+	Projeto Final (com apresentação): 30%
++ Participação individual em classe (Quiz semanal): 20%
++	Code Assignments (ML/DL) (Jupyter Notebook / CoLab): 25%
++	Projetos práticos (Relatórios de Laboratórios): 55%
++	Projeto Final em Grupo(com apresentação): 30%
 
 ## Pré-requisitos
 + Conhecimentos do idioma inglês (leitura).
 + Conhecimentos básicos de programação em  C / C ++ (Arduino IDE) e Python. Todas as tarefas de classe envolverão uma ou ambas linguagens de programação.
-+ Familiaridade com ferramentas de linha de comando em Mac, Windows ou Linux. Os projetos exigirão operações em um terminal.
-+ Noções de Algebra linear, probabilidade básica e estatística. Muitos tópicos de ML giram em torno de compreender operações e notação de vetores e matrizes, bem como conceitos de distribuições gaussianas, médias, desvios-padrão etc.
++ Familiaridade com ferramentas de linha de comando em Mac, Windows ou Linux. Os projetos exigirão algumas operações em um terminal.
++ Noções de Algebra linear, análise de sinais, probabilidade básica e estatística. Muitos tópicos de ML giram em torno de compreender operações e notação de vetores e matrizes, bem como conceitos de distribuições gaussianas, médias, desvios-padrão etc.
 
 ## Metodologia/Recursos: 
-+ As aulas serão ministradas de maneira remota e ao vivo (aulas síncronas) pela plataforma Google Meet, todas as quartas-feiras das 16:30h às 18:30h. As gravações das aulas estarão disponíveis aos alunos para revisão. 
++ As aulas serão ministradas de maneira remota e ao vivo (aulas síncronas) pela plataforma Google Meet, todas as quartas-feiras das 13:30h às 15:30h. As gravações das aulas estarão disponíveis aos alunos para revisão. 
 + Exercícios e projetos poderão ser desenvolvidos em computadores pessoais com TensorFlow V.2x instalados ou utilizando-se de ferramentas on-line como [Google CoLab](https://colab.research.google.com/notebooks/intro.ipynb).
 + Modelos reais de TinyML serão desenvolvidos e treinados utilizando-se do [Edge Impulse Studio](https://www.edgeimpulse.com/).
-+ Para a captura de dados e deployment dos modelos treinados (Parte 2) deverão ser utilizados smart-phones pessoais dotados de pelo menos sensores do tipo: acelerômetro, microfone e camera.
-+ Na parte 3 do curso será também utilizado um Kit composto de um Arduino BLE Sense (Cortex-M4) e uma camera digital modelo OV7675 (disponibilizado pela universidade e enviado diretamante aos alunos). 
++ Para a captura inicial de dados, deployment dos modelos treinados e familiarização das ferramentas de mercado, serão utilizados inicialmante smart-phones pessoais dotados de pelo menos sensores do tipo: acelerômetro, microfone e camera.
++ Na segunda parte do curso será utilizado um [Kit](https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit) composto de um Arduino BLE Sense (Cortex-M4) e uma camera digital modelo OV7675 (disponibilizado pela universidade e enviado diretamente a residencia dos alunos). 
 
 ## Professor do curso:
 + [Marcelo José Rovai](https://medium.com/@rovai)
 
 ## Supervisão e apoio:
-+ [Maurilio Pereira Coutinho](http://lattes.cnpq.br/8563634195134747)
 + [José Alberto Ferreira](http://lattes.cnpq.br/8319509175327154)
++ [Carlos]()
 
 ## Planejamento das Classes (Turma 1 - 2021.1)
 <img src='images/Class_Schedule.png'/>
