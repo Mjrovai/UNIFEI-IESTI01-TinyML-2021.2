@@ -80,7 +80,7 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 
 ## Supervisão e apoio:
 + [José Alberto Ferreira](http://lattes.cnpq.br/8319509175327154)
-+ [Carlos]()
++ [Carlos Henrique Valério de Moraes](http://lattes.cnpq.br/3460761031788198)
 
 ## Planejamento das Classes (Turma 1 - 2021.1)
 <img src='images/Class_Schedule.png'/>
