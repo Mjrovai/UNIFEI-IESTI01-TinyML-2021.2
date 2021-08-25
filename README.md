@@ -82,11 +82,11 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + [José Alberto Ferreira](http://lattes.cnpq.br/8319509175327154)
 + [Carlos Henrique Valério de Moraes](http://lattes.cnpq.br/3460761031788198)
 
-## Planejamento das Classes (Turma 1 - 2021.1)
-<img src='images/Class_Schedule.png'/>
+## Planejamento das Classes (2021.2)
+<img src='images/class_schedule.png'/>
 
-## Planejamento das Tarefas/Trabalhos (Turma 1 - 2021.1)
-<img src='images/Assignments_Schedule.png'/>
+## Planejamento das Tarefas/Trabalhos (2021.2)
+<img src='images/assignments_schedule.png'/>
 
 ## Material (All in English)
 `All material will be uploaded to this repo at the classes' base.`
