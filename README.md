@@ -111,7 +111,7 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 13 - Preview of TinyML Applications 
 + Class 14 - AI Lifecycle and ML Workflow 
   
-  ### Parte 2: Applications & Deploy
+### Parte 2: Applications & Deploy
 + Class 15 - Introduction to Edge Impulse Studio
 + Class 16 - Gesture Classification (EI Studio Project) 
 + Class 17 - Anomaly Detection with TinyML 
@@ -124,6 +124,6 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 24 - Collecting Data 
 + Class 25 - Visual Wake Words - Introduction 
 + Class 26 - VWW - Demo/Lab - 
-+ Class 27 - Image Classification using Edge Impulse Studio [
++ Class 27 - Image Classification using Edge Impulse Studio
 + Class 28 - Responsible AI & Course Wrap-up 
 + Class 29 and 30 - Group Presentations
