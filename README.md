@@ -96,39 +96,34 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Pre-course:  : [[Jupyter Notebook, CoLab and Python Review]](/00_Curso_Folder/1_Fundamentals/Class_4/)
 
 ### Parte 1: Fundamentals 
-+ Class 1 - About the Course and Syllabus [[Slides]](00_Curso_Folder/1_Fundamentals/Class_1/IESTI01_TinyML_class_1.pdf) [[Video]](https://youtu.be/xjhSqpBugcA)
-+ Class 2 - Introduction to TinyML [[Slides]](00_Curso_Folder/1_Fundamentals/Class_2/IESTI01_TinyML_class_2.pdf) [[Video]](https://youtu.be/cjuvCVLIx58)
-+ Class 3 - TinyML - Challenges [[Slides]](00_Curso_Folder/1_Fundamentals/Class_3/IESTI01_TinyML_class_3.pdf)[[Extras]](00_Curso_Folder/1_Fundamentals/Class_3/) [[Video]](https://youtu.be/PBJtvBaX2_w)
-+ Class 4 - Jupyter Notebook, CoLab and Python Review [[Docs]](00_Curso_Folder/1_Fundamentals/Class_4/docs/) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_4/) [[Video]](https://youtu.be/tEp6hEOOT8Y)
-+ Class 5 - The Machine Learning Paradigm [[Slides]](00_Curso_Folder/1_Fundamentals/Class_5/IESTI01_TinyML_class_5.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_5/) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_5/docs/) [[Video]](https://youtu.be/E3tw9wpaAHg)
-+ Class 6 - The Building Blocks of Deep Learning (DL) - Introduction [[Slides]](00_Curso_Folder/1_Fundamentals/Class_6/IESTI01_TinyML_class_6.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_6/) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_6/docs/) [[Video]](https://youtu.be/VAIkoEZsJGk)
-+ Class 7 - The Building Blocks of DL - Regression with DSS [[Slides]](00_Curso_Folder/1_Fundamentals/Class_7/IESTI01_TinyML_class_7.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_7/) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_7/docs/) [[Video]](https://youtu.be/2a0PVIlWnZY)
-+ Class 8 - The Building Blocks of DL - Classification with DSS [[Slides]](00_Curso_Folder/1_Fundamentals/Class_8/IESTI01_TinyML_class_8.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_8/) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_8/docs/) [[Video]](https://youtu.be/Xg5sKX-BgwM)
-+ Class 9 - The Building Blocks of DL - DNN Recap, Datasets and Model Performance Metrics [[Slides]](00_Curso_Folder/1_Fundamentals/Class_9/IESTI01_TinyML_class_9.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_9/) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_9/docs/) [[Video]](https://youtu.be/7UMUv-cTshQ)
-+ Class 10 - Introducing Convolutions (CNN) [[Slides]](00_Curso_Folder/1_Fundamentals/Class_10/IESTI01_TinyML_class_10.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_10/) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_10/docs/) [[Video]](https://youtu.be/IBiRBH2oVzc)
-+ Class 11 - Convolutions (CNN) Recap [[Slides]](00_Curso_Folder/1_Fundamentals/Class_11/IESTI01_TinyML_class_11.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_11/) [[Video]](https://youtu.be/orR_CKey9Sk)
-+ Class 12 - Preventing Overfitting [[Slides]](00_Curso_Folder/1_Fundamentals/Class_12/IESTI01_TinyML_class_12.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_12/WDBC_Project/) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_12/docs/) [[Video]](https://youtu.be/LyuSA4Lsnmw)
-
-### Parte 2: Applications & Deploy
-+ Class 13 - Preview of TinyML Applications [[Slides]](00_Curso_Folder/2_Applications/Class_13/IESTI01_TinyML_class_13.pdf) [[Video]](https://youtu.be/gcLSoXWGzyc)
-+ Class 14 - AI Lifecycle and ML Workflow [[Slides]](00_Curso_Folder/2_Applications/Class_14/IESTI01_TinyML_class_14.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_14/docs/) [[Video]](https://youtu.be/w-L5SCOXCfE)
-+ Class 15 - Introduction to Edge Impulse Studio [[Slides]](00_Curso_Folder/2_Applications/Class_15/IESTI01_TinyML_class_15.pdf) [[Video]](https://youtu.be/t1AMBsgzYd4)
-+ Class 16 - Gesture Classification (EI Studio Project) [[Slides]](00_Curso_Folder/2_Applications/Class_16/IESTI01_TinyML_class_16.pdf) [[Video]](https://youtu.be/ahYlu8bRlQk)
-+ Class 17 - Anomaly Detection with TinyML [[Slides]](00_Curso_Folder/2_Applications/Class_17/IESTI01_TinyML_class_17.pdf) [[Notebooks]](00_Curso_Folder/2_Applications/Class_17/) [[Docs]](00_Curso_Folder/2_Applications/Class_17/docs/) [[Video]](https://youtu.be/e6M0v_PCV4M)
-+ Class 18 - Data Engineering for TinyML [[Slides]](00_Curso_Folder/2_Applications/Class_18/IESTI01_TinyML_class_18.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_18/docs/)[[Video]](https://youtu.be/s7jFOnd_0F4)
-+ Class 19 - TinyML Kit Overview, Installation and test [[Slides]](00_Curso_Folder/2_Applications/Class_19/IESTI01_TinyML_class_19.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_19/docs/) [[Video]](https://youtu.be/K2khnMYzKq8)
-+ Class 20 - Lab Gesture Classification & Anomaly Detection using MCU [[Slides]](00_Curso_Folder/2_Applications/Class_20/IESTI01_TinyML_class_20.pdf) [[Video]](https://youtu.be/ziniXLQW54w)
-+ Class 21 - Keyword Spotting - Introduction [[Slides]](00_Curso_Folder/2_Applications/Class_21/IESTI01_TinyML_class_21.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_21/docs/) [[Video]](https://youtu.be/4jXhRvuCKbw)
-+ Class 22 - Lab KWS using MCU [[Slides]](00_Curso_Folder/2_Applications/Class_22/IESTI01_TinyML_class_22.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_22/) [[Video]](https://youtu.be/cH2cEZhRy8o)
-+ Class 23 - Lecturer with Daniel Situnayaki, Edge Impulse [[Slides]](00_Curso_Folder/2_Applications/Class_23/IESTI01_TinyML_class_23.pdf) [[Video]](https://youtu.be/bsbWqIp2Xz8)
-+ Class 24 - Collecting Data [[Slides]](00_Curso_Folder/2_Applications/Class_24/IESTI01_TinyML_class_24.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_24/) [[Video]](https://youtu.be/gAHJ32fxLNc)
-+ Class 25 - Visual Wake Words - Introduction [[Slides]](00_Curso_Folder/2_Applications/Class_25/IESTI01_TinyML_class_25.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_25/) [[Video]](https://youtu.be/inwszvYlg5g)
-+ Class 26 - VWW - Demo/Lab - [[Slides]](00_Curso_Folder/2_Applications/Class_26/IESTI01_TinyML_class_26.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_26/) [[Video]](https://youtu.be/ApNitP4Q9Xw)
-+ Class 27 - Image Classification using Edge Impulse Studio [[Slides]](00_Curso_Folder/2_Applications/Class_27/IESTI01_TinyML_class_27.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_27/) [[Video EI-Studio]](https://youtu.be/JnOk66R87io) [[Video Arduino-IDE]](https://youtu.be/mabMUJAdKCc)
-+ Class 28 - Responsible AI & Course Wrapup [[Slides]](00_Curso_Folder/2_Applications/Class_28/IESTI01_TinyML_class_28.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_28/) [[Video]](https://youtu.be/lhUuLWX5gts) [[Privacy in Context]](https://youtu.be/1lAsEmxCbt8)
-+ Class 29 and 30  - Group Presentations 
-  +  Group 1 - Seismic Detection [[Video]](https://youtu.be/vswoWrOpC1s)
-  +  Group 2 - Fire Detection [[Video]](https://youtu.be/70ySBIPzvJk)
-  +  Group 3 - Covid Detection (cough) [[Video]](https://youtu.be/7Lca8lfdKAI)
-  +  Group 4 - Mask Detection [[Video]](https://youtu.be/jeRetSaqm1w)
-  +  Group 5 - Personal Trainer [[Video]](https://youtu.be/RxlHRyaRfBc) 
++ Class 1 - About the Course and Syllabus 
++ Class 2 - Introduction to TinyML 
++ Class 3 - TinyML - Challenges 
++ Class 4 - Jupyter Notebook, CoLab and Python Review 
++ Class 5 - The Machine Learning Paradigm 
++ Class 6 - The Building Blocks of Deep Learning (DL) - Introduction
++ Class 7 - The Building Blocks of DL - Regression with DSS 
++ Class 8 - The Building Blocks of DL - Classification with DSS 
++ Class 9 - The Building Blocks of DL - DNN Recap, Datasets and Model Performance Metrics 
++ Class 10 - Introducing Convolutions (CNN) 
++ Class 11 - Convolutions (CNN) Recap
++ Class 12 - Preventing Overfitting 
++ Class 13 - Preview of TinyML Applications 
++ Class 14 - AI Lifecycle and ML Workflow 
+  
+  ### Parte 2: Applications & Deploy
++ Class 15 - Introduction to Edge Impulse Studio
++ Class 16 - Gesture Classification (EI Studio Project) 
++ Class 17 - Anomaly Detection with TinyML 
++ Class 18 - Data Engineering for TinyML 
++ Class 19 - TinyML Kit Overview, Installation and test 
++ Class 20 - Lab Gesture Classification & Anomaly Detection using MCU 
++ Class 21 - Keyword Spotting - Introduction 
++ Class 22 - Lab KWS using MCU 
++ Class 23 - Lecturer with Daniel Situnayaki, Edge Impulse 
++ Class 24 - Collecting Data 
++ Class 25 - Visual Wake Words - Introduction 
++ Class 26 - VWW - Demo/Lab - 
++ Class 27 - Image Classification using Edge Impulse Studio [
++ Class 28 - Responsible AI & Course Wrap-up 
++ Class 29 and 30 - Group Presentations
