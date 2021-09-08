@@ -101,7 +101,7 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 
 ### Parte 1: Fundamentals 
 + Class 1 - About the Course and Syllabus [[Slides]](00_Curse_Folder/1_Fundamentals/Class_01/IESTI01_TinyML_class_1.pdf) [[Video]](https://youtu.be/5ny2xUIr8Do)
-+ Class 2 - Introduction to TinyML [[Slides]](00_Curso_Folder/1_Fundamentals/Class_02/IESTI01_TinyML_class_2.pdf) [[Video]](https://youtu.be/0Ek4cg9sp8Y)
++ Class 2 - Introduction to TinyML [[Slides]](00_Curse_Folder/1_Fundamentals/Class_02/IESTI01_TinyML_class_2.pdf) [[Video]](https://youtu.be/0Ek4cg9sp8Y)
 + Class 3 - TinyML - Challenges 
 + Class 4 - Jupyter Notebook, CoLab and Python Review 
 + Class 5 - The Machine Learning Paradigm 
