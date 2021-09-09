@@ -85,8 +85,6 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + [Carlos Henrique Valério de Moraes](http://lattes.cnpq.br/3460761031788198)
 
 ## Planejamento das Classes (2021.2)
-### Por motivos de força maior, as aulas se iniciam em 08/09/21 
-- Por favor considere o deslocamento do calendário em 1 semana. Obrigado.
 <img src='images/class_schedule.png'/>
 
 ## Planejamento das Tarefas/Trabalhos (2021.2)
