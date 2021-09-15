@@ -100,8 +100,8 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 ### Parte 1: Fundamentals 
 + Class 1 - About the Course and Syllabus [[Slides]](00_Curse_Folder/1_Fundamentals/Class_01/IESTI01_TinyML_class_1.pdf) [[Video]](https://youtu.be/5ny2xUIr8Do)
 + Class 2 - Introduction to TinyML [[Slides]](00_Curse_Folder/1_Fundamentals/Class_02/IESTI01_TinyML_class_2.pdf) [[Video]](https://youtu.be/0Ek4cg9sp8Y)
-+ Class 3 - TinyML - Challenges [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_03/IESTI01_TinyML_class_3.pdf) [[Video]]()
-+ Class 4 - Jupyter Notebook, CoLab and Python Review [[Docs]](00_Curse_Folder/1_Fundamentals/Class_04/docs) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_04/notebooks) [[Video]]() 
++ Class 3 - TinyML - Challenges [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_03/IESTI01_TinyML_class_3.pdf) [[Video]](https://youtu.be/4LJzGT0t-Ts)
++ Class 4 - Jupyter Notebook, CoLab and Python Review [[Docs]](00_Curse_Folder/1_Fundamentals/Class_04/docs) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_04/notebooks) [[Video]](https://youtu.be/ndUf5HXRHwU) 
 + Class 5 - The Machine Learning Paradigm 
 + Class 6 - The Building Blocks of Deep Learning (DL) - Introduction
 + Class 7 - The Building Blocks of DL - Regression with DSS 
