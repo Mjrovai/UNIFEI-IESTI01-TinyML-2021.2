@@ -102,8 +102,8 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 2 - Introduction to TinyML [[Slides]](00_Curse_Folder/1_Fundamentals/Class_02/IESTI01_TinyML_class_2.pdf) [[Video]](https://youtu.be/0Ek4cg9sp8Y)
 + Class 3 - TinyML - Challenges [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_03/IESTI01_TinyML_class_3.pdf) [[Video]](https://youtu.be/4LJzGT0t-Ts)
 + Class 4 - Jupyter Notebook, CoLab and Python Review [[Docs]](00_Curse_Folder/1_Fundamentals/Class_04/docs) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_04/notebooks) [[Video]](https://youtu.be/ndUf5HXRHwU) 
-+ Class 5 - The Machine Learning Paradigm [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_05/IESTI01_TinyML_class_5.pdf) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_05/docs) [[Video]]()
-+ Class 6 - The Building Blocks of Deep Learning (DL) - Introduction [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_06/IESTI01_TinyML_class_6.pdf) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_06/docs) [[Video]]()
++ Class 5 - The Machine Learning Paradigm [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_05/IESTI01_TinyML_class_5.pdf) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_05/docs) [[Video]](https://youtu.be/XGcM87-Ubrc)
++ Class 6 - The Building Blocks of Deep Learning (DL) - Introduction [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_06/IESTI01_TinyML_class_6.pdf) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_06/docs) [[Video]](https://youtu.be/tesduiurapA)
 + Class 7 - The Building Blocks of DL - Regression with DSS 
 + Class 8 - The Building Blocks of DL - Classification with DSS 
 + Class 9 - The Building Blocks of DL - DNN Recap, Datasets and Model Performance Metrics 
