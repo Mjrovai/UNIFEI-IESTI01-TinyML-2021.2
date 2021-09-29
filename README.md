@@ -104,8 +104,8 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 4 - Jupyter Notebook, CoLab and Python Review [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_04/notebooks) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_04/docs)  [[Video]](https://youtu.be/ndUf5HXRHwU) 
 + Class 5 - The Machine Learning Paradigm [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_05/IESTI01_TinyML_class_5.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_05) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_05/docs) [[Video]](https://youtu.be/XGcM87-Ubrc)
 + Class 6 - The Building Blocks of Deep Learning (DL) - Introduction [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_06/IESTI01_TinyML_class_6.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_06) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_06/docs) [[Video]](https://youtu.be/tesduiurapA)
-+ Class 7 - The Building Blocks of DL - Regression with DSS [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_07/IESTI01_TinyML_class_7.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_07) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_07/docs) [[Video]]()
-+ Class 8 - The Building Blocks of DL - Classification with DSS [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_08/IESTI01_TinyML_class_8.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_08) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_08/docs) [[Video]]()
++ Class 7 - The Building Blocks of DL - Regression with DSS [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_07/IESTI01_TinyML_class_7.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_07) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_07/docs) [[Video]](https://youtu.be/OxIC8Ac1X30)
++ Class 8 - The Building Blocks of DL - Classification with DSS [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_08/IESTI01_TinyML_class_8.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_08) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_08/docs) [[Video]](https://youtu.be/XVu8N9jbiLA)
 + Class 9 - The Building Blocks of DL - DNN Recap, Datasets and Model Performance Metrics 
 + Class 10 - Introducing Convolutions (CNN) 
 + Class 11 - Convolutions (CNN) Recap
