@@ -61,7 +61,7 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 ## Processo de aprovação:
 + Participação individual em classe (Quiz semanal): 20%
 +	Code Assignments (ML/DL) (Jupyter Notebook / CoLab): 25%
-+	Projetos práticos (Relatórios de Laboratórios): 55%
++	Projetos práticos (Relatórios de Laboratórios): 25%
 +	Projeto Final em Grupo(com apresentação): 30%
 
 ## Pré-requisitos
