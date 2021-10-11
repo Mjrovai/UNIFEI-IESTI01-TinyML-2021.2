@@ -108,7 +108,7 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 8 - The Building Blocks of DL - Classification with DSS [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_08/IESTI01_TinyML_class_8.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_08) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_08/docs) [[Video]](https://youtu.be/XVu8N9jbiLA)
 + Class 9 - The Building Blocks of DL - DNN Recap, Datasets and Model Performance Metrics [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_09/IESTI01_TinyML_class_9.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_09) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_09/docs) [[Video]](https://youtu.be/_E6M-yK_Yy8)
 + Class 10 - Introducing Convolutions (CNN) [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_10/IESTI01_TinyML_class_10.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_10) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_10/docs) [[Video]](https://youtu.be/IiwlEr8Zf2s)
-+ Class 11 - Image Clasification using CNN [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_11/IESTI01_TinyML_class_11.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_11) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_11/docs) [[Video]]()
++ Class 11 - Image Classification using CNN [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_11/IESTI01_TinyML_class_11.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_11) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_11/docs) [[Video]]()
 + Class 12 - Preventing Overfitting [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_12/IESTI01_TinyML_class_12.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_12) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_12/docs) [[Video]]()
 
 + Class 13 - Preview of TinyML Applications 
