@@ -111,7 +111,7 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 11 - Image Classification using CNN [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_11/IESTI01_TinyML_class_11.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_11) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_11/docs) [[Video]](https://youtu.be/-JRPJIe6-18)
 + Class 12 - Introduction to Edge Impulse – CNN with Cifar-10 [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_12/IESTI01_TinyML_class_12.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_12) [[Video]](https://youtu.be/tFfo8-mkYGw)
 + Class 13 - Preventing Overfitting [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_13/IESTI01_TinyML_class_13.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_13) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_13/docs) [[Video]]()
-+ Class 14 - Fundamentals wrap-up and Application’s preview [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_14/IESTI01_TinyML_class_14.pdf) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_13/docs) [[Video]]()
++ Class 14 - Fundamentals wrap-up and Application’s preview [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_14/IESTI01_TinyML_class_14.pdf) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_14/docs) [[Video]]()
   
 ### Parte 2: Applications & Deploy
 + Class 15 - AI Lifecycle and ML Workflow
