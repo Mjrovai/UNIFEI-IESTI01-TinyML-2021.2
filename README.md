@@ -114,8 +114,8 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 14 - Fundamentals wrap-up and Application’s preview [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_14/IESTI01_TinyML_class_14.pdf) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_14/docs) [[Video]](https://youtu.be/Otk1TvqeTzk)
   
 ### Parte 2: Applications & Deploy
-+ Class 15 - AI Lifecycle and ML Workflow
-+ Class 16 - Gesture Classification (EI Studio Project) 
++ Class 15 - ML Applications Overview - AI Lifecycle and ML Workflow [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_15/IESTI01_TinyML_class_15.pdf)  [[Video]]()
++ Class 16 - Introduction to TFLite and TFLite-Micro [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_16/IESTI01_TinyML_class_16.pdf) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_16) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_16/docs) [[Video]]()
 + Class 17 - Anomaly Detection with TinyML 
 + Class 18 - Data Engineering for TinyML 
 + Class 19 - TinyML Kit Overview, Installation and test 
