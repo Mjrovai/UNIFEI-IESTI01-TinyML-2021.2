@@ -112,8 +112,6 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 12 - Introduction to Edge Impulse – CNN with Cifar-10 [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_12/IESTI01_TinyML_class_12.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_12) [[Video]](https://youtu.be/tFfo8-mkYGw)
 + Class 13 - Preventing Overfitting [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_13/IESTI01_TinyML_class_13.pdf) [[Notebooks]](00_Curse_Folder/1_Fundamentals/Class_13) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_13/docs) [[Video]](https://youtu.be/ihFunJ5upvs)
 + Class 14 - Fundamentals wrap-up and Application’s preview [[Slides]](/00_Curse_Folder/1_Fundamentals/Class_14/IESTI01_TinyML_class_14.pdf) [[Docs]](00_Curse_Folder/1_Fundamentals/Class_14/docs) [[Video]](https://youtu.be/Otk1TvqeTzk)
-
-### Group Project - [[Proposals]](/00_Curse_Folder/Group Project/propostas/)
   
 ### Parte 2: Applications & Deploy
 + Class 15 - ML Applications Overview - AI Lifecycle and ML Workflow [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_15/IESTI01_TinyML_class_15.pdf)  [[Video]]()
@@ -131,3 +129,6 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 27 - Image Classification using Edge Impulse Studio
 + Class 28 - Responsible AI & Course Wrap-up 
 + Class 29 and 30 - Group Presentations
+
+### Group Projects
++ [[Proposals]](/00_Curse_Folder/Group%20Project/propostas/)
