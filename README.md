@@ -117,10 +117,10 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 15 - ML Applications Overview - AI Lifecycle and ML Workflow [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_15/IESTI01_TinyML_class_15.pdf)  [[Video]](https://youtu.be/ojyj7wShxNQ)
 + Class 16 - Introduction to TFLite and TFLite-Micro [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_16/IESTI01_TinyML_class_16.pdf) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_16) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_16/docs) [[Video]](https://youtu.be/SYdWTR-NhG4)
   + Class 16a - EdgeML with TensorFlow Lite (RaspberryPi Demo) [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_16/EdgeML-Demo/IESTI01_TinyML_class_16a.pdf) [[Video]](https://youtu.be/lZ1W7MnJFD4)
-+ Class 17 - Anomaly Detection with TinyML 
-+ Class 18 - Data Engineering for TinyML 
-+ Class 19 - TinyML Kit Overview, Installation and test 
-+ Class 20 - Lab Gesture Classification & Anomaly Detection using MCU 
++ Class 17 - TinyML Kit Overview - HW and SW Installation & Test [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_17/IESTI01_TinyML_class_17.pdf) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_17) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_17/docs)  [[Video]]()
++ Class 18 - TFLite-Micro Overviw & Hello World Code Walkthrough [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_18/IESTI01_TinyML_class_18.pdf) [[Codigos]](00_Curse_Folder/2_Applications_Deploy/Class_18) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_18/docs) [[Video]]()
++ Class 19 - Motion Classification 
++ Class 20 - Anomaly Detection using MCU 
 + Class 21 - Keyword Spotting - Introduction 
 + Class 22 - Lab KWS using MCU 
 + Class 23 - Lecturer with Daniel Situnayaki, Edge Impulse 
