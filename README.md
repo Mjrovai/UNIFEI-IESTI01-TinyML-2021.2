@@ -117,8 +117,8 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 15 - ML Applications Overview - AI Lifecycle and ML Workflow [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_15/IESTI01_TinyML_class_15.pdf)  [[Video]](https://youtu.be/ojyj7wShxNQ)
 + Class 16 - Introduction to TFLite and TFLite-Micro [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_16/IESTI01_TinyML_class_16.pdf) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_16) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_16/docs) [[Video]](https://youtu.be/SYdWTR-NhG4)
   + Class 16a - EdgeML with TensorFlow Lite (RaspberryPi Demo) [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_16/EdgeML-Demo/IESTI01_TinyML_class_16a.pdf) [[Video]](https://youtu.be/lZ1W7MnJFD4)
-+ Class 17 - TinyML Kit Overview - HW and SW Installation & Test [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_17/IESTI01_TinyML_class_17.pdf) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_17) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_17/docs)  [[Video]](https://youtu.be/uySWziXC92A)
-+ Class 18 - TFLite-Micro Overview & Hello World Code Walkthrough [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_18/IESTI01_TinyML_class_18.pdf) [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_18) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_18/docs) [[Video]]()
++ Class 17 - TinyML Kit Overview - HW and SW Installation & Test [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_17/IESTI01_TinyML_class_17.pdf) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_17) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_17/docs)  [[Video]](https://youtu.be/waNy7s6y3jc)
++ Class 18 - TFLite-Micro Overview & Hello World Code Walkthrough [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_18/IESTI01_TinyML_class_18.pdf) [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_18) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_18/docs) [[Video]](https://youtu.be/uOYFo-1xC3o)
 + Class 19 - Motion Classification /Lab
 + Class 20 - Anomaly Detection using MCU /Lab
 + Class 21 - Keyword Spotting - Introduction 
