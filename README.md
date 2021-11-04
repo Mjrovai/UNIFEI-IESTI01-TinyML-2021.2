@@ -121,10 +121,10 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 18 - TFLite-Micro Overview & Hello World Code Walkthrough [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_18/IESTI01_TinyML_class_18.pdf) [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_18) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_18/docs) [[Video]](https://youtu.be/uOYFo-1xC3o)
 + Class 19 - Motion Classification /Lab
 + Class 20 - Anomaly Detection using MCU /Lab
-+ Class 21 - Keyword Spotting - Introduction 
-+ Class 22 - Lab KWS using MCU 
-+ Class 23 - Lecturer with Daniel Situnayaki, Edge Impulse 
-+ Class 24 - Collecting Data 
++ Class 21 - Lecturer with Dr. Marco Zennaro, ICTP, Italy 
++ Class 22 - Collecting Data 
++ Class 23 - Keyword Spotting - Introduction 
++ Class 24 - Lab KWS using MCU 
 + Class 25 - Visual Wake Words - Introduction 
 + Class 26 - VWW - Demo/Lab - 
 + Class 27 - Image Classification using Edge Impulse Studio
