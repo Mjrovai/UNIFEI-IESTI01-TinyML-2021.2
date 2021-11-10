@@ -119,10 +119,10 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
   + Class 16a - EdgeML with TensorFlow Lite (RaspberryPi Demo) [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_16/EdgeML-Demo/IESTI01_TinyML_class_16a.pdf) [[Video]](https://youtu.be/lZ1W7MnJFD4)
 + Class 17 - TinyML Kit Overview - HW and SW Installation & Test [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_17/IESTI01_TinyML_class_17.pdf) [[Notebooks]](00_Curse_Folder/2_Applications_Deploy/Class_17) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_17/docs)  [[Video]](https://youtu.be/waNy7s6y3jc)
 + Class 18 - TFLite-Micro Overview & Hello World Code Walkthrough [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_18/IESTI01_TinyML_class_18.pdf) [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_18) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_18/docs) [[Video]](https://youtu.be/uOYFo-1xC3o)
-+ Class 19 - Motion Classification [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_19/IESTI01_TinyML_class_19.pdf) [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_19) [[Video]]()
-+ Class 20 - Anomaly Detection using MCU [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_20/IESTI01_TinyML_class_20.pdf) [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_20) [[Video]]()
++ Class 19 - Motion Classification - Introdution [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_19/IESTI01_TinyML_class_19.pdf) [[Video]](https://youtu.be/44cl22eWvks)
++ Class 20 -  Motion Classification using MCU [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_20/IESTI01_TinyML_class_20.pdf) [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_20) [[Video]](https://youtu.be/OqHms7spYMI)
 + Class 21 - Lecturer with Dr. Marco Zennaro, ICTP, Italy 
-+ Class 22 - Collecting Data 
++ Class 22 - Anomaly Detection using MCU 
 + Class 23 - Keyword Spotting - Introduction 
 + Class 24 - Lab KWS using MCU 
 + Class 25 - Visual Wake Words - Introduction 
