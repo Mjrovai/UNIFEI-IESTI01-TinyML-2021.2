@@ -123,8 +123,8 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 20 -  Motion Classification using MCU [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_20/IESTI01_TinyML_class_20.pdf) [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_20) [[Video]](https://youtu.be/OqHms7spYMI)
 + Class 21 - Lecturer with Dr. Marco Zennaro, ICTP, Italy [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_21/IESTI01_TinyML_class_21.pdf) [[Video]](https://youtu.be/uUmL0BHnXvs)
 + Class 22 - Anomaly Detection using MCU [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_22/IESTI01_TinyML_class_22.pdf) [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_22) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_22/docs) [[Video]](https://youtu.be/eZtsuHPp6Gg)
-+ Class 23 - Keyword Spotting - Introduction [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_23/IESTI01_TinyML_class_23.pdf) [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_23) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_23/docs) [[Video]]()
-+ Class 24 - Lab KWS using MCU [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_24/IESTI01_TinyML_class_24.pdf) [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_24) [[Video]]()
++ Class 23 - Keyword Spotting - Introduction [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_23/IESTI01_TinyML_class_23.pdf) [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_23) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_23/docs) [[Video]](https://youtu.be/y1AXqx7YDA4)
++ Class 24 - Lab KWS using MCU [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_24/IESTI01_TinyML_class_24.pdf) [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_24) [[Video]](https://youtu.be/MptxjTzs4Sk)
 + Class 25 - Visual Wake Words - Introduction 
 + Class 26 - VWW - Demo/Lab - 
 + Class 27 - Image Classification using Edge Impulse Studio
