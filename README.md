@@ -128,8 +128,8 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 25 - Collecting Data with Edge Impulse Studio [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_25/IESTI01_TinyML_class_25.pdf) [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_25) [[Video]](https://youtu.be/EZlwH_eoxMw)
 + Class 26 - Visual Wake Words (VWW) - Introduction [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_26/IESTI01_TinyML_class_26.pdf) [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_26) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_26/docs) [[Video]](https://youtu.be/k2-3lDb1V-w)
   +  Class 26a - Person Detection (VWW) - Application [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_26a/IESTI01_TinyML_class_26a.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_26a/doc) [[Video]](https://youtu.be/JCBPy5HQEZM)
-+ Class 27 - Image Classification using Edge Impulse Studio
-+ Class 28 - Responsible AI & Course Wrap-up 
++ Class 27 - Image Classification using Edge Impulse Studio [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_27/IESTI01_TinyML_class_27.pdf) [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_27) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_27/docs) [[Video]]()
++ Class 28 - Responsible AI & Course Wrap-up [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_28/IESTI01_TinyML_class_28.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_28/docs) [[Video]]()
 + Class 29 and 30 - Group Presentations
 
 ### Group Projects
