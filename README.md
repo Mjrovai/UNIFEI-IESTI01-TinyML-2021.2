@@ -131,8 +131,8 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 27 - Image Classification using Edge Impulse Studio [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_27/IESTI01_TinyML_class_27.pdf) [[Code]](00_Curse_Folder/2_Applications_Deploy/Class_27) [[Video]](https://youtu.be/NG9bAxY2Ijo)
 + Class 28 - Responsible AI & Course Wrap-up [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_28/IESTI01_TinyML_class_28.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_28/docs) [[Video]](https://youtu.be/p5dvP_HEc5M)
 + Class 29 and 30 - Group Presentations
-+   [[Video_1]](https://youtu.be/IkUbbWcL5Z4)
-+   [[Video_2]](https://youtu.be/-T9o38oo4Bk)
++   Groups 1, 2, 3, 4 [[Video]](https://youtu.be/IkUbbWcL5Z4)
++   Groups 5, 6 [[Video_2]](https://youtu.be/-T9o38oo4Bk)
 
 ### Group Projects
 + [[Proposals]](/00_Curse_Folder/Group%20Project/propostas/)
