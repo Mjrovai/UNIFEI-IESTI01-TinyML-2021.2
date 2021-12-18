@@ -132,7 +132,14 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 28 - Responsible AI & Course Wrap-up [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_28/IESTI01_TinyML_class_28.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_28/docs) [[Video]](https://youtu.be/p5dvP_HEc5M)
 + Class 29 and 30 - Group Presentations
   + Groups 1, 2, 3, 4, 5 [[Video]](https://youtu.be/IkUbbWcL5Z4)
+    + 1-Keyboard
+    + 2-Sobriety
+    + 3-Bearing
+    + 4-Ex-Maquina
+    + 5-Helmet
   + Groups 6, 7 [[Video]](https://youtu.be/-T9o38oo4Bk)
+    + 6-Emotions
+    + 7-Eletricity 
 
 ### Group Projects
 + [[Proposals]](/00_Curse_Folder/Group%20Project/propostas/)
