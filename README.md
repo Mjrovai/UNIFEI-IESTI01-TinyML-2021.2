@@ -8,7 +8,7 @@
 For the previous IESTI01 TinyML 2021.1 course Version, please go to: https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1
 <hr>
 
-## Material (slides and docs in English; videos in Portuguese)
+## Material (Slides, Code and Docs in English; Videos in Portuguese)
 
 ### Optional pre-course activities:
 + Pre-course:  : [[Suggested readings]](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1/tree/main/00_Curso_Folder/0_Pre-Course)
