@@ -5,7 +5,7 @@
 <img src='images/IESTI_2.jpg'/>
 <figcaption><a href='https://unifei.edu.br/iesti/'>Instituto de Engenharia de Sistemas e Tecnologias da Informação – IESTI - Campus de Itajubá</a></figcaption>
 <hr>
-For the previous IESTI01 TinyML 2021.1 course Version, please go to: https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1
+> For the previous IESTI01 TinyML 2021.1 course Version, please go to: [UNIFEI-IESTI01-TinyML-2021.1](https://github.com/Mjrovai/UNIFEI-IESTI01-T01-2021.1)
 <hr>
 
 ## Material (Slides, Noteboooks, Code and Docs in English; Videos in Portuguese)
